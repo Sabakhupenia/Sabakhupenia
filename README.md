@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sabakhupenia
 - 👀 I’m interested in New Jobs and oportunitins about Web-development.
 - 🌱 I’m currently learning SQL and FastApi.
+- 🌱 I have learnd Python, JavaScript, Html and Css.
 - 📫 How to reach me: khupeniasaba@gmail.com
 
 <!---
